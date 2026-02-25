@@ -1,6 +1,6 @@
 # =====================================================
-# Name: Ritik Sharma
-# Roll No: 2301010342
+# Name: Sumit Kumar
+# Roll No: 2301010297
 # Course: Image Processing & Computer Vision
 # Unit: Image Restoration
 # Assignment: Noise Modeling and Image Restoration
